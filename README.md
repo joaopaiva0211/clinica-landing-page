@@ -10,8 +10,11 @@ Landing page estática para clínica de saúde em Brasília/DF.
 - ✅ Publicado no **GitHub Pages** (ponto extra)
 
 ## Como executar
-- **Online:** https://SEU_USUARIO.github.io/clinica-landing-page/
+- **Online:** https://joaopaiva0211.github.io/clinica-landing-page/
 - **Local:** baixe o repositório e abra `index.html` no navegador.
+
+## Repositório
+https://github.com/joaopaiva0211/clinica-landing-page
 
 ## Tecnologias
 HTML5 + CSS inline (projeto simples, sem backend). Imagens livres/ilustrativas.
